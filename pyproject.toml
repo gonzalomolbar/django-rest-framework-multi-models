@@ -1,6 +1,6 @@
 [project]
 name = "djangorestframework-multimodels"
-version = "0.0.1"
+version = "0.0.2"
 description = ""
 license = { file = "LICENSE" }
 readme = "README.md"
@@ -38,8 +38,6 @@ ruff = "0.9.7"
 
 [tool.poetry.group.test.dependencies]
 pytest = "8.3.4"
-
-
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
